@@ -1,0 +1,98 @@
+[
+  {
+    "package": "afscassess",
+    "url": "https://github.com/afsc-assessments/afscassess"
+  },
+  {
+    "package": "afscdata",
+    "url": "https://github.com/afsc-assessments/afscdata"
+  },
+  {
+    "package": "afscISS",
+    "url": "https://github.com/afsc-assessments/afscISS"
+  },
+  {
+    "package": "catchfunction",
+    "url": "https://github.com/afsc-assessments/catchfunction"
+  },
+  {
+    "package": "ebswp",
+    "url": "https://github.com/afsc-assessments/ebswp_2023"
+  },
+  {
+    "package": "ebswp",
+    "url": "https://github.com/afsc-assessments/ebswp"
+  },
+  {
+    "package": "FLjjm",
+    "url": "https://github.com/SPRFMO/FLjjm"
+  },
+  {
+    "package": "fmR",
+    "url": "https://github.com/afsc-assessments/fmR"
+  },
+  {
+    "package": "funplots",
+    "url": "https://github.com/afsc-assessments/funplots"
+  },
+  {
+    "package": "GOApollock",
+    "url": "https://github.com/afsc-assessments/GOApollock"
+  },
+  {
+    "package": "growthbreaks",
+    "url": "https://github.com/afsc-assessments/growthbreaks"
+  },
+  {
+    "package": "inseasonDashboard",
+    "url": "https://github.com/afsc-assessments/inseasonDashR"
+  },
+  {
+    "package": "jjmR",
+    "url": "https://github.com/SPRFMO/jjmr"
+  },
+  {
+    "package": "NamibianHake",
+    "url": "https://github.com/jimianelli/NamibianHake"
+  },
+  {
+    "package": "nwfscAgeingError",
+    "url": "https://github.com/jimianelli/nwfscAgeingError"
+  },
+  {
+    "package": "pkgdownTemplate",
+    "url": "https://github.com/jimianelli/popcie"
+  },
+  {
+    "package": "planteam",
+    "url": "https://github.com/afsc-assessments/planteam"
+  },
+  {
+    "package": "rema",
+    "url": "https://github.com/afsc-assessments/rema"
+  },
+  {
+    "package": "rtmbFunctions",
+    "url": "https://github.com/jimianelli/rtmbsbt"
+  },
+  {
+    "package": "sa4all",
+    "url": "https://github.com/afsc-assessments/sa4all"
+  },
+  {
+    "package": "SARA",
+    "url": "https://github.com/afsc-assessments/sara"
+  },
+  {
+    "package": "spmR",
+    "url": "https://github.com/afsc-assessments/spmR"
+  },
+  {
+    "package": "SPoRC",
+    "url": "https://github.com/jimianelli/SPoRC"
+  },
+  {
+    "package": "VRData",
+    "url": "https://github.com/jimianelli/VRData"
+  }
+]
